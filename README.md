@@ -1,8 +1,34 @@
-# data-job-dashboard-excel
-📝 The Project: I analyzed salary data for various data-related job titles using Excel. My main goal was to explore salary trends across different countries and job positions, and gain insights that can be useful for career planning. The data was collected from online job listings related to data roles.
+# 📊 Data Job Salary Dashboard Project
 
-🚧 Challenges: It was using Excel formulas and functions to solve specific problems I encountered during the project. However, this allowed me to learn and practice different approaches through various cases, which greatly improved my Excel skills.
+## 📝 Project Overview
 
-🔎 Insights: Through my analysis, I discovered salary differences between countries and job positions. This analysis provided a clear overview of how salaries vary depending on job type and location.
+In this project, I analyzed salary data for various data-related job titles using Microsoft Excel. The goal was to explore salary trends across different countries and job positions and to create dynamic dashboards that presents the insights clearly.
 
-🎯 What You Learned: By completing this project, I improved my Excel skills, particularly in data cleaning, using formulas, and creating dynamic dashboards. I also learned how to extract valuable insights from raw data and present them visually in a way that is easy to understand.
+![image](https://github.com/user-attachments/assets/282ba837-89ce-4d0c-9d31-217fab72c725)
+
+## 🧩 Tools & Skills Used
+
+* **Microsoft Excel**
+
+  * 📊 Charts: Created multiple visualizations to present salary trends across countries and job roles.
+  * 🧮 Formulas & Functions: Applied functions to calculate key metrics.
+  * ❎ Data Validation: Implemented dropdown lists for user-friendly data filtering and interactive analysis.
+
+## 🚧 Challenges
+
+One of the main challenges was learning how to apply the right Excel formulas and functions to solve specific data problems. Through this project, I practiced different approaches and improved my Excel problem-solving skills significantly.
+
+## 🔎 Insights
+
+* Discovered how salaries differ across countries and job positions.
+* Found that advanced data roles (such as Data Scientist and Data Engineer) tend to have higher salary ranges compared to entry-level roles.
+* The dashboard provides a clear overview to help understand the job market in data-related fields.
+
+## 🎯 What I Learned
+
+* Improved my skills in Excel formulas, functions, data visualization, and interactive dashboard creation.
+* Gained valuable experience in cleaning and analyzing data to extract meaningful insights.
+
+## 🔗 Project Files
+
+You can view the complete project files in this repository, including the Excel dashboard and data files.
