@@ -4,15 +4,15 @@
 
 In this project, I analyzed salary data for various data-related job titles using Microsoft Excel. The goal was to explore salary trends across different countries and job positions and to create dynamic dashboards that presents the insights clearly.
 
-![image](https://github.com/user-attachments/assets/282ba837-89ce-4d0c-9d31-217fab72c725)
+![image](https://github.com/user-attachments/assets/40a6b952-2120-487f-b6a6-8b685ae07d0d)
 
 ## 🧩 Tools & Skills Used
 
 * **Microsoft Excel**
 
-  * 📊 Charts: Created multiple visualizations to present salary trends across countries and job roles.
-  * 🧮 Formulas & Functions: Applied functions to calculate key metrics.
-  * ❎ Data Validation: Implemented dropdown lists for user-friendly data filtering and interactive analysis.
+  * 📊 Charts: Created bar charts to display salaries for each data job and schedule type based on job counts. Also created a filled map to show the median data salary for each country.
+  * 🧮 Formulas & Functions: Applied functions such as XLOOKUP, COUNTIFS, MEDIAN, and others to calculate key metrics.
+  * ❎ Data Validation: Used to create dynamic dashboards and to protect the worksheet from unintended changes.
 
 ## 🚧 Challenges
 
@@ -26,7 +26,7 @@ One of the main challenges was learning how to apply the right Excel formulas an
 
 ## 🎯 What I Learned
 
-* Improved my skills in Excel formulas, functions, data visualization, and interactive dashboard creation.
+* Improved my skills in Excel formulas, functions, data visualization, and dynamic dashboard creation.
 * Gained valuable experience in cleaning and analyzing data to extract meaningful insights.
 
 ## 🔗 Project Files
