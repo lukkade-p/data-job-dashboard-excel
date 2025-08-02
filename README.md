@@ -4,7 +4,7 @@
 
 In this project, I analyzed salary data for various data-related job titles using Microsoft Excel. The goal was to explore salary trends across different countries and job positions and to create dynamic dashboards that presents the insights clearly.
 
-![image](https://github.com/user-attachments/assets/40a6b952-2120-487f-b6a6-8b685ae07d0d)
+![gif-_1-project](https://github.com/user-attachments/assets/69d4e0f9-6006-41b4-ac7c-099526dafdb6)
 
 ## 🧩 Tools & Skills Used
 
